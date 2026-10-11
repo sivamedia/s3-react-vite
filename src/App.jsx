@@ -138,7 +138,7 @@ function App() {
       <header className="header">
         <div>
           <p className="eyebrow">AWS CLOUD APPLICATION</p>
-          <h1>User Management</h1>
+          <h1>User Management V1.0</h1>
           <p className="subtitle">
             React · Express · MongoDB Atlas
           </p>
